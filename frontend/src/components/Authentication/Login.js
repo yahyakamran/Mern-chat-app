@@ -111,7 +111,7 @@ function Login() {
         width={"100%"}
         onClick={() => {
           setEmail("guest@example.com");
-          setPassword("123456");
+          setPassword("12345");
         }}
       >
         Get Guest User Credentials
